@@ -1,6 +1,6 @@
 ## *haii ^^*
 
-![image](plspls.jpg)
+<img src="plspls.jpg" alt="drawing" width="300" height="300"/>
 
 + 🔍 **Cybersec, low-level programming addict**
 + 💻 **Windows and Linux user**
