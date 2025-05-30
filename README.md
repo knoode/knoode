@@ -1,6 +1,6 @@
 ## *haii ^^*
 
-![[Pasted image plspls.png]]
+<img src="plspls.jpg>
 
 + 🔍 **Cybersec, low-level programming addict**
 + 💻 **Windows and Linux user**
