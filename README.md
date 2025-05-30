@@ -1,5 +1,7 @@
 ## *haii ^^*
 
+![[Pasted image plspls.png]]
+
 + 🔍 **Cybersec, low-level programming addict**
 + 💻 **Windows and Linux user**
 + 💭 **Languages of choice: C/++, Python**
